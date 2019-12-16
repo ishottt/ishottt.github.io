@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-30_1537",
-    "currentPage": "page10.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3457,7 +3457,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-152-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -3490,8 +3490,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-245-2000x1333.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-2547-2000x1500.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -3503,7 +3503,7 @@
                 "title": "Askhia Lou Martinez Bawar",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "a Grade 12 student taking Academic Track under Humanities and Social Sciences strand. <br>\nShe loves photography.<br><br><br>",
+                "text": "a Grade 12 student taking Humanities and Social Sciences strand under Academic Track.\n<br>&nbsp;She loves photography.<br><br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
